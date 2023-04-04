@@ -2,20 +2,20 @@
 ### This is a sales report data of a retail store in United States showing the sales analysis from 2016 to 2020.
 
 ##Creation of columns
-### I crated the Revenue column by multiplying the Quantity sold by sales which is the price and subtracted the discount price
+#### I crated the Revenue column by multiplying the Quantity sold by sales which is the price and subtracted the discount price
 
-### I also created the diffence of the order sold date and delivery date and discovered some negative values which was filtered out using the filters
+#### I also created the diffence of the order sold date and delivery date and discovered some negative values which was filtered out using the filters
 
 ##Model
------|-------
-Original Model |My Model
+----- | -------
+Original Model | My Model
 
-![Original Model](Sales-Report/model before.png) | ![My Model](Sales-Report/model after.png) 
+![Original Model](model before.png) | ![My Model](model after.png) 
 this show only the relationship with regional managers | this connected the returned orders using the order ID 
 
 
 ##Report
-![Dashboard](Sales-Report/Dashboard.png) 
+![Dashboard](Dashboard.png) 
 
 ## FINDINGS
 ###At 1,464,227.02, Phones had the highest Revenue and was 122.62% higher than Copiers, which had the lowest Revenue at 657,710.17.
