@@ -9,8 +9,6 @@
 ## Model
 Original Model | My Model
 ----- | -----
-
-
 ![Original Model](model_before.png) | ![My Model](model_after.png) 
 this show only the relationship with regional managers | this connected the returned orders using the order ID 
 
